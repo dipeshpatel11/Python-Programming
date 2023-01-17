@@ -1,3 +1,7 @@
 # Python-Programming
 
-Out of all these Python programs some I did on my own for my practice and some I did during my CMPUT 274 (Introduction to tangible computing - I) course as weekly exercises
+Programming language:<br> ▪ Python
+
+Software used:<br> ▪ Visual Studio Code
+
+Some of these Python programs I did on my own as a practice and some I did during my CMPUT 274 (Introduction to tangible computing - I) course as weekly exercises

@@ -1,12 +1,3 @@
-#--------------------------------------------
-#   Name: Dipesh Patel
-#   ID:   1722408
-#   CCID: dipesh1
-#   CMPUT 274, Fall2021
-#
-#   Weekly Exercise 3: Word Frequency
-#-------------------------------------------- 
-
 import sys
 
 

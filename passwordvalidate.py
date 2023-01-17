@@ -70,4 +70,4 @@ generate(8)
 
 
 if __name__ == '__main__':
-    print(validate('Week1A$sgnment'))
+    print(validate('Week1S0_Boring'))

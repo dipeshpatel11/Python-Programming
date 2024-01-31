@@ -62,3 +62,6 @@ if __name__ == "__main__":
                 freq_out.write(x + " " + str(y) + " " + str(round(y/count, 3)) + "\n")
             
             freq_out.close()
+
+
+# testing the git pull and commit and push
